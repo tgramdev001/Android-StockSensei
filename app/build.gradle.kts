@@ -41,7 +41,7 @@ dependencies {
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     // Scanner library utilized
-    implementation("com.google.zxing:core:3.5.2")
+    implementation("com.google.mlkit:barcode-scanning:17.2.0")
     // Image download and caching library
     implementation("com.github.bumptech.glide:glide:4.16.0")
     testImplementation("junit:junit:4.13.2")
